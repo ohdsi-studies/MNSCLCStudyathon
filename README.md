@@ -10,7 +10,7 @@ iCAN mNSCLC Studyaton
 - Study lead forums tag: **[[Asieh Golozar]](https://forums.ohdsi.org/u/agolozar)**
 - Study start date: **-**
 - Study end date: **-**
-- Protocol: **-**
+- Protocol: **[iCAN mNSCLC Studyathon_Protocol](https://github.com/ohdsi-studies/MNSCLCStudyathon/blob/master/HUS%20mNSCLC%20Studyathon_Protocol%2001Jan2025_FINAL.docx)**
 - Publications: **-**
 - Results explorer: **-**
 
