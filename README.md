@@ -8,7 +8,7 @@ iCAN mNSCLC Studyaton
 - Tags: **mNSCLC**, **Treatmeent pattern**, **Studyathon**, **Oncology**
 - Study lead: **Asieh Golozar**
 - Study lead forums tag: **[[Asieh Golozar]](https://forums.ohdsi.org/u/agolozar)**
-- Study start date: **-**
+- Study start date: **07-Nov-2024**
 - Study end date: **-**
 - Protocol: **[iCAN mNSCLC Studyathon_Protocol](https://github.com/ohdsi-studies/MNSCLCStudyathon/blob/master/HUS%20mNSCLC%20Studyathon_Protocol%2001Jan2025_FINAL.docx)**
 - Publications: **-**
